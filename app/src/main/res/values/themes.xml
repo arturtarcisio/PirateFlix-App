@@ -1,8 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.PirateflixApp" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="Theme.PirateflixApp" parent="Theme.AppCompat">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#3C3F41</item>
+        <item name="colorPrimary">#FF1616</item>
         <item name="colorPrimaryVariant">@color/vermelho_escuro</item>
         <item name="colorOnPrimary">@color/vermelho_accente</item>
 

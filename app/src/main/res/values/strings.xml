@@ -2,4 +2,8 @@
     <string name="app_name">Pirateflix App</string>
     <string name="titulo">Wanda Vision</string>
     <string name="temporada">S1:E2</string>
+    <string name="menu_mensagem">menu mensagem</string>
+    <string name="menu_volume">menu volume</string>
+    <string name="menu_favorito">menu favorito</string>
+    <string name="menu_conteudo">menu conteudo</string>
 </resources>
